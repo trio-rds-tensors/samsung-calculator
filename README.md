@@ -55,6 +55,20 @@ A sleek and efficient calculator web application inspired by Samsung's mobile de
 ![Samsung Calculator Interface](samsung-calculator-preview.png)
 
 ---
+## 🙌 Acknowledgements
+
+Developed by [trio-rds-tensors](https://github.com/trio-rds-tensors)  
+Special thanks to **InfinityFree** for free hosting.
+
+---
+
+## 📬 Connect with Me
+
+- GitHub: [trio-rds-tensors](https://github.com/trio-rds-tensors)  
+- Email: [machinelearning41819@gmail.com]  
+
+---
+
 
 
 
