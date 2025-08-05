@@ -1,0 +1,83 @@
+<style>
+p{
+  color: white; 
+  font-size: 30px; 
+  display:inline;
+}
+ .wb
+ {
+      color:white;
+      background-color: rgb(35,35,35);
+      height: 80px;
+      width: 80px;
+      border: none;
+      border-radius: 40px;
+      font-size: 30px;
+      margin-left: 5px;
+      margin-bottom: 5px;
+ }
+ .gb
+ {
+      color:green;
+      background-color: rgb(35,35,35);
+      height: 80px;
+      width: 80px;
+      border: none;
+      border-radius: 40px;
+      font-size: 30px;
+      margin-left: 5px;
+      margin-bottom: 5px; 
+ }
+ .rb
+ {
+      color:red;
+      background-color: rgb(35,35,35);
+      height: 80px;
+      width: 80px;
+      border: none;
+      border-radius: 40px;
+      font-size: 30px;
+      margin-left: 5px;
+      margin-bottom: 5px;
+ }
+ .div1
+    {
+      background-color: black;
+      width:400px;
+      height:580px;
+    }
+ .div2
+    {
+      background-color: black;
+      width:400px;
+      text-align: right;
+      height:40px;
+    }
+  .box
+    {
+      width: 390px;
+      height: 60px;
+      margin-bottom: 15px;
+      border-color:black;
+      font-size: 30px;
+      background-color: black;
+      color: white;
+      border: none;
+      text-align: right;
+    }
+  .equalto
+    {
+      background-color:green; 
+      height: 80px;
+      width: 80px;
+      border: none;
+      border-radius: 40px;
+      font-size: 30px;
+      margin-left: 5px;
+      margin-bottom: 5px;
+    }
+</style>
+
+body{
+  text-align: center;
+}
