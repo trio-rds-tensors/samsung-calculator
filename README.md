@@ -52,7 +52,7 @@ A sleek and efficient calculator web application inspired by Samsung's mobile de
 ---
 ## 🌄 UI Preview
 
-![Samsung Calculator Interface](./assets/samsung-calculator-preview.png)
+![Samsung Calculator Interface](samsung-calculator-preview.png)
 
 ---
 
